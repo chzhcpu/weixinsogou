@@ -7,3 +7,16 @@ E:\F\coding\WeiXinSogou\WeiXinSogou\bin\Debug\HtmlAgilityPack.xml
 E:\F\coding\WeiXinSogou\WeiXinSogou\obj\Debug\WeiXinSogou.csprojResolveAssemblyReference.cache
 E:\F\coding\WeiXinSogou\WeiXinSogou\obj\Debug\WeiXinSogou.exe
 E:\F\coding\WeiXinSogou\WeiXinSogou\obj\Debug\WeiXinSogou.pdb
+F:\coding\weixinsogou\bin\Debug\WeiXinSogou.exe.config
+F:\coding\weixinsogou\obj\Debug\WeiXinSogou.exe
+F:\coding\weixinsogou\obj\Debug\WeiXinSogou.pdb
+F:\coding\weixinsogou\bin\Debug\WeiXinSogou.exe
+F:\coding\weixinsogou\bin\Debug\WeiXinSogou.pdb
+F:\coding\weixinsogou\bin\Debug\Dapper.dll
+F:\coding\weixinsogou\bin\Debug\Newtonsoft.Json.dll
+F:\coding\weixinsogou\bin\Debug\Dapper.pdb
+F:\coding\weixinsogou\bin\Debug\Dapper.xml
+F:\coding\weixinsogou\bin\Debug\HtmlAgilityPack.pdb
+F:\coding\weixinsogou\bin\Debug\HtmlAgilityPack.xml
+F:\coding\weixinsogou\bin\Debug\Newtonsoft.Json.xml
+F:\coding\weixinsogou\obj\Debug\WeiXinSogou.csprojResolveAssemblyReference.cache
