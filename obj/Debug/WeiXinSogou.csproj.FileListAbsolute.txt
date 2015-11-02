@@ -1,0 +1,9 @@
+E:\F\coding\WeiXinSogou\WeiXinSogou\bin\Debug\WeiXinSogou.exe.config
+E:\F\coding\WeiXinSogou\WeiXinSogou\bin\Debug\WeiXinSogou.exe
+E:\F\coding\WeiXinSogou\WeiXinSogou\bin\Debug\WeiXinSogou.pdb
+E:\F\coding\WeiXinSogou\WeiXinSogou\bin\Debug\HtmlAgilityPack.dll
+E:\F\coding\WeiXinSogou\WeiXinSogou\bin\Debug\HtmlAgilityPack.pdb
+E:\F\coding\WeiXinSogou\WeiXinSogou\bin\Debug\HtmlAgilityPack.xml
+E:\F\coding\WeiXinSogou\WeiXinSogou\obj\Debug\WeiXinSogou.csprojResolveAssemblyReference.cache
+E:\F\coding\WeiXinSogou\WeiXinSogou\obj\Debug\WeiXinSogou.exe
+E:\F\coding\WeiXinSogou\WeiXinSogou\obj\Debug\WeiXinSogou.pdb
